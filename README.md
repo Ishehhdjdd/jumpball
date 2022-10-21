@@ -1,11 +1,11 @@
 # jumpball 
 #programing language
 -java 
-#goal 
+# Goal 
 -Control the ball to jump between the platforms
-#controls
+# Controls
 -"w" = Jump
 -"a = Move Back 
 -"d" = Move Forward
-#Screenshot 
+# Screenshot 
 ![image](https://github.com/jeff-wei/testtest/blob/main/screenshot.png)
