@@ -1,4 +1,5 @@
 # jumpball 
+- a 2D ball game using java
 # programing language
 - java 
 # Goal 
